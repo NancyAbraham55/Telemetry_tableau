@@ -36,3 +36,4 @@ would address the majority of recorded downtime.
 ## Dashboard
 View the interactive Tableau dashboard here:
 [Daikibo Manufacturing Downtime Dashboard](https://public.tableau.com/app/profile/nancy.abraham5565/viz/DeloitteSim_1/Dashboard1)
+![Dashboard Preview](tableau1.png)
